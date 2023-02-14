@@ -111,3 +111,4 @@ config/dev_test.js
 umzug.json
 node_modules
 .vscode/
+build/
